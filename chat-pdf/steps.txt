@@ -1,0 +1,2 @@
+- create-next-app@latest
+- npx shadcn-ui@latest add init
